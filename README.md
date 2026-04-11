@@ -1,13 +1,28 @@
-# wasd
-A small WASD keyboard made with a custom PCB.
-# why?
-Because I wanna make something cool. So let's start simple and work our way up.
-However I chose this project and this design for one pretty obvious use: gaming. Now most games won't exclusively use WASD, however Geometry dash, which I've been playing a lot of recently, does (we don't talk about 2 player platformers!!). Coincidentally I am also in the process of attempting to play geometry dash and the piano at the same time. And to play the piano I need two hands and to play Geometry Dash I need to use... my feet. And I don't have a keyboard with fat keys so I thought "if I'm going to be keeping this in my room forever, I might as well get some use out of it". And I married these two ideas together and created this.
-# how?
-I used KiCAD to build the PCB and followed the amazing tutorial by Hackclub to complete it. I learnt that Fusion360 was definitely not right for me and Onshape is slightly better.
-# what?
-You need:
-- 1 XIAO RP2040
-- 1 case (top+bottom in the files)
-- 4 Cherry MX Switches
-- 
+# WASD
+The four most basic keys for gaming. Forward, Backward, and either Strafe or Look left/right.   
+But how often do you ever step back and think, **what am I putting them through**? Your character is in a constant state of running around aimlessly, not knowing their next move. If only you could be in their shoes and empathise with them. That is the real-world problem that WASD solves.   
+Realistically, WASD is the problem to the solution. You will find yourself chasing down your keyboard as it edges away from you, inflicting a fraction of your character's pain on you. A little toy that serves no real purpose (like us all?).
+
+# What does it do?
+At the moment it can:
+- Type W, A, S, D
+- When W is typed, it moves forward via two wheels on the side.
+- When S is typed, it moves backwards.
+- A and D rotate it (omni wheels were too expensive!).
+
+# Why does it do?
+In the keyboard universe, most improvements have already been done long ago. Matrices, LEDs and stenographers have been completed a million times over: so much so that the people are becoming bored and complacent. WASD came to me when I was discussing ideas with my friends. I already wanted to make a simple WASD when I had the idea to attach wheels to it and give it movement.
+
+<img width="580" height="377" alt="image" src="https://github.com/user-attachments/assets/22889259-88cc-4735-b007-48ea31d35b94" />
+
+# How to build
+1. Solder the PCB. Do not solder the wires for the motors yet.
+2. Flash the PCB with the firmware.
+3. Place the motors into the crevices on the sides.
+4. Fit the PCB inside sitting on the screw holes. It should also block the motors from leaving.
+5. Screw in the PCB.
+6. Place the key buttons on top.
+7. Screw in the roof.
+8. Attach googly eyes on the front. Their placement isn't important but without them the WASD cannot bear its existence.
+9. Name it. I named mine Jeremy.
+10. Attach the wheels to the axles the motors produced.
