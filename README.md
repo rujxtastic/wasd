@@ -32,7 +32,27 @@ Schematic:
 <img width="1920" height="1080" alt="WASDbigrender" src="https://github.com/user-attachments/assets/5c5f918a-e9d7-40dd-82aa-9a415873b5c4" />
 
 # BOM
-
+﻿Item|Quantity|Total price|Link
+---|---|---|---
+Seeed XIAO RP2040 (Board + Loose Headers)|1|£3.90|https://thepihut.com/products/seeed-xiao-rp2040?variant=53975380263297
+XIAO shipping|-|£3.50|
+Motor pins|2|£0|
+Cherry MX Clicky Switches|4|£2.80|https://customkeyboardsuk.co.uk/products/cherry-mx-blue-rgb-clicky-mechanical-keyboard-switch
+Switches Shipping|-|£1.99|
+L293D Motor Driver|1|£0.63|https://www.ebay.co.uk/itm/232393379693
+L293D Shipping|-|£1.25|
+PCB printing|1|£2.97|https://jlcpcb.com
+3D printing |1|£4.81|https://jlc3dp.com
+JLC shipping|-|£5.60|
+Discount|-|-£7.41|https://jlc3dp.com
+Screws: M2.5 x 7.5mm|6|£0.67|https://www.moddiy.com/products/1266/M2.5-x-7.5mm-Black-Screws-CM2.5X7.5.html
+Screws Shipping|-|£7.43|
+Toy Wheels (Colour B)|2|£1.52|https://www.aliexpress.com/item/1005007002405013.html
+Motors|2|£2.22|https://www.aliexpress.com/item/1005010032893301.html
+Motor Shipping|-|£2.91|
+Wires (28G)|30cm|£1.77|https://www.ebay.co.uk/itm/301767024783
+|||
+Total: |£36.56||
 
 
 # How to build
