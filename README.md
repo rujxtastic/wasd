@@ -13,7 +13,7 @@ At the moment it can:
 - A and D rotate it (omni wheels were too expensive!).
 
 # Why does it do?
-In the keyboard universe, most improvements have already been done long ago. Matrices, LEDs and stenographers have been completed a million times over: so much so that the people are becoming bored and complacent. WASD came to me when I was discussing ideas with my friends. I already wanted to make a simple WASD when I had the idea to attach wheels to it and give it movement.
+In the keyboard universe, most improvements have already been done long ago. Matrices, LEDs and stenographers have been completed a million times over: so much so that the people are becoming bored and complacent. WASD came to me when I was discussing ideas with my friends. I already wanted to make a simple WASD when I had the idea to attach wheels to it and give it movement. And this baby was born.
 
 # PCB layout   
 
