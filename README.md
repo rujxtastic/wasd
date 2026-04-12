@@ -31,10 +31,13 @@ Schematic:
 <img width="618" height="215" alt="Screenshot 2026-04-11 204605" src="https://github.com/user-attachments/assets/abccd161-84bc-4244-8e39-cdf465f069b1" />
 <img width="1920" height="1080" alt="WASDbigrender" src="https://github.com/user-attachments/assets/5c5f918a-e9d7-40dd-82aa-9a415873b5c4" />
 
+# BOM
+
+
 
 # How to build
 1. Solder the PCB. Do not solder the wires for the motors yet.
-2. Flash the PCB with the firmware.
+2. Flash the PCB with the firmware. I would recommend downloading Arduino, importing the .ino file, selecting the board and flashing it via USB.
 3. Place the motors into the crevices on the sides.
 4. Fit the PCB inside sitting on the screw holes. It should also block the motors from leaving.
 5. Screw in the PCB.
@@ -45,4 +48,4 @@ Schematic:
 10. Attach the wheels to the axles the motors produced.
 
 # How to use
-Simply plug it into a USB-C power supply and move around!
+Simply plug it into your computer via USB-C and move around!
