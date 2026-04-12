@@ -51,21 +51,22 @@ Toy Wheels (Colour B)|2|£1.52|https://www.aliexpress.com/item/1005007002405013.
 Motors|2|£2.22|https://www.aliexpress.com/item/1005010032893301.html
 Motor Shipping|-|£2.91|
 Wires (28G)|30cm|£1.77|https://www.ebay.co.uk/itm/301767024783
-|||
-Total: |£36.56||
-
+Total: |£36.56||   
+   
+To reduce costs, I would recommend buying locally and avoiding shipping.
 
 # How to build
 1. Solder the PCB. Do not solder the wires for the motors yet.
 2. Flash the PCB with the firmware. I would recommend downloading Arduino, importing the .ino file, selecting the board and flashing it via USB.
 3. Place the motors into the crevices on the sides.
 4. Fit the PCB inside sitting on the screw holes. It should also block the motors from leaving.
-5. Screw in the PCB.
-6. Place the key buttons on top.
-7. Screw in the roof.
-8. Attach googly eyes on the front. Their placement isn't important but without them the WASD cannot acknowledge its existence.
-9. Name it. I named mine Jeremy.
-10. Attach the wheels to the axles the motors produced.
+5. Screw in the PCB: I would recommend from the bottom as the screws are slightly bigger than the space it has been given. You can also just buy smaller screws.
+6. Solder the wires to the motor. Motor 1 Pin Header should connect to the left motor and Motor 2 Pin Header to the right. Attach the positive end to the positive side and vice versa.
+7. Attach the key buttons to the button switches. This shouldn't require specialised tools.
+8. Screw in the roof.
+9. Attach googly eyes on the front. Their placement isn't important but without them the WASD cannot acknowledge its existence.
+10. Name it! I am naming mine Jeremy.
+11. Attach the wheels to the axles the motors produced.
 
 # How to use
 Simply plug it into your computer via USB-C and move around!
