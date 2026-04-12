@@ -24,11 +24,13 @@ Schematic:
 
 
 
-# Models
+# Model views
 
 <img width="580" height="377" alt="image" src="https://github.com/user-attachments/assets/22889259-88cc-4735-b007-48ea31d35b94" />
 <img width="679" height="404" alt="Screenshot 2026-04-11 204506" src="https://github.com/user-attachments/assets/10f8e08d-6d39-4f19-8aa5-4800eb5a38e0" />
 <img width="618" height="215" alt="Screenshot 2026-04-11 204605" src="https://github.com/user-attachments/assets/abccd161-84bc-4244-8e39-cdf465f069b1" />
+<img width="1920" height="1080" alt="WASDbigrender" src="https://github.com/user-attachments/assets/5c5f918a-e9d7-40dd-82aa-9a415873b5c4" />
+
 
 # How to build
 1. Solder the PCB. Do not solder the wires for the motors yet.
