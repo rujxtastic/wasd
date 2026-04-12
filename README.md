@@ -2,6 +2,8 @@
 The four most basic keys for gaming. Forward, Backward, and either Strafe or Look left/right.   
 But how often do you ever step back and think, **what am I putting them through**? Your character is in a constant state of running around aimlessly, not knowing their next move. If only you could be in their shoes and empathise with them. That is the real-world problem that WASD solves.   
 Realistically, WASD is the problem to the solution. You will find yourself chasing down your keyboard as it edges away from you, inflicting a fraction of your character's pain on you. A little toy that serves no real purpose (like us all?).
+<img width="3508" height="4960" alt="WASDzine" src="https://github.com/user-attachments/assets/155660fd-09fd-46c7-84d3-8859909e12eb" />
+
 
 # What does it do?
 At the moment it can:
