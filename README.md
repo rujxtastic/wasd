@@ -20,7 +20,7 @@ In the keyboard universe, most improvements have already been done long ago. Mat
 # PCB layout   
 
 PCB:   
-<img width="436" height="378" alt="image" src="https://github.com/user-attachments/assets/80bc2b7e-9dfc-4705-8a9e-164451311c80" />   
+<img width="635" height="547" alt="image" src="https://github.com/user-attachments/assets/13f7c814-50f6-42dc-9303-ca2de8e8d648" />     
 Schematic:   
 <img width="810" height="609" alt="image" src="https://github.com/user-attachments/assets/4c577d76-6471-47a4-a9fe-8f4c2a697f2e" />   
 
